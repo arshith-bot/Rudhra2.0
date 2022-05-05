@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra.git"
+    "url": "git+https://github.com/arshith-bot/Rudhra.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,11 +17,11 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "prince-rudh",
-  "developer": "@TOXIC-DEVIL / @prince-rudh",
+  "author": "arshith-bot",
+  "developer": "@ARSHITH-BOT / @ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴀʀsʜɪᴛʜꪶ͢`ᡃ⃝🛡️ᡃ⃝★",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/prince-rudh/Rudhra/issues"
+    "url": "https://github.com/arshith-bot/Rudhra/issues"
   },
   "homepage": "https://github.com/prince-rudh/Rudhra#readme",
   "dependencies": {
